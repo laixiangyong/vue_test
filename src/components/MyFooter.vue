@@ -32,6 +32,7 @@ export default {
       })
       return i */
 
+      // 不简写
      /* return this.todos.reduce((pre, current) => {
         return pre + (current.done ? 1 : 0);
       }, 0); */
