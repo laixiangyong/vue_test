@@ -18,5 +18,6 @@ module.exports = {
       entry: 'src/main.js',
      
     },
-  }
+  },
+  lintOnSave:false  // 修改成false 关闭eslint检查
 }
