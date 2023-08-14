@@ -14,7 +14,7 @@
 </template>
 
 <script>
-// import {mixin} from '../mixin'
+import {mixin} from '../mixin'
 export default {
   name: `School`,
   data() {
@@ -23,7 +23,7 @@ export default {
       address:'南昌'
     }
   },
-//  mixins:[mixin]
+ mixins:[mixin]
 };
 </script>
 
